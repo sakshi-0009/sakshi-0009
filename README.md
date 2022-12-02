@@ -9,10 +9,7 @@
 - 📫 Connect with me 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sakshi-gome-b7abb2212/) <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshi-0009&show_icons=true&locale=en&layout=compact" alt="sakshi-0009" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sakshi-0009&theme=dark)](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sakshi-0009&show_icons=true&locale=en" alt="sakshi-0009" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-0009&" alt="sakshi-0009" /></p>
 
 Credit: [Sakshi Gome](https://github.com/sakshi-0009)
