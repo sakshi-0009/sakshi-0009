@@ -12,13 +12,14 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=sakshi-0009&theme=dark&show_icons=true&theme=dark&locale=en" alt="sakshi-0009" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshi-0009&show_icons=true&theme=dark&locale=en&layout=compact" alt="sakshi-0009" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshi-0009&theme=dark&show_icons=true&theme=dark&locale=en&layout=compact" alt="sakshi-0009" /></td>
   </tr>
  </table>
 
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sakshi-0009&theme=dark" alt="sakshi-0009" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sakshi-0009" (https://git.io/streak-stats)"
+ alt="sakshi-0009" /></p>
       </div>
 
 Credit: [Sakshi Gome](https://github.com/sakshi-0009)
