@@ -16,9 +16,9 @@
   </tr>
  </table>
 
-
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sakshi-0009" alt="sakshi-0009" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sakshi-0009&theme=dark" (https://git.io/streak-stats)
+ alt="sakshi-0009" /></p>
       </div>
 
 Credit: [Sakshi Gome](https://github.com/sakshi-0009)
