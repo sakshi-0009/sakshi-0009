@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer and designer from India.</h3>
 
 - 👀 I’m interested in web development and designing. 
-- 🌱 I’m currently learning JavaFull Stack
+- 🌱 I’m currently learning Java Full Stack
 - 💞️ I love coding + learning + repeating ✨
 - 👉🏻 How to reach me sakshigome1809@gmail.com
 
