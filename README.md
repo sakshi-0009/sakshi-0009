@@ -20,8 +20,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sakshi-0009" (https://git.io/streak-stats)
  alt="sakshi-0009" /></p>
  
-  <h2 align="center">LeetCode Stats</h2>
+ <!--  <h2 align="center">LeetCode Stats</h2>-->
   
-![LeetCode Stats](https://leetcard.jacoblin.cool/Sakshi_0009?theme=light&font=Noto%20Sans%20Carian&ext=heatmap)      </div>
+<!--![LeetCode Stats](https://leetcard.jacoblin.cool/Sakshi_0009?theme=light&font=Noto%20Sans%20Carian&ext=heatmap)-->
+  </div>
 
 Credit: [Sakshi Gome](https://github.com/sakshi-0009)
