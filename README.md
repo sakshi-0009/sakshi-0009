@@ -17,7 +17,7 @@
  </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sakshi-0009" (https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sakshi-0009")](https://git.io/streak-stats)
  alt="sakshi-0009" /></p>
  
  <!--  <h2 align="center">LeetCode Stats</h2>-->
