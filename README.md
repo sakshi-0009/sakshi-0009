@@ -1,5 +1,7 @@
 <h1 align="center">Hello 👋, I'm Sakshi Gome</h1>
 <h3 align="center">Java Developer</h3>
+<h4 align="center">Consistent small steps yield big changes.
+</h4>
 
 - 🌱 I’m currently learning **Flutter Framework**
 
