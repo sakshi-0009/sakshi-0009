@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Sakshi Gome 👋</h1>
-<h3 align="center">Java Developer | Flutter Enthusiast</h3>
+<h3 align="center">Software Developer | Flutter Enthusiast</h3>
 <h4 align="center">Consistent small steps yield big changes</h4>
 
 ### About Me
